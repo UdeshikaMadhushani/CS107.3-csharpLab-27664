@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\Lab 02-Qs 04\Lab 02-Qs 04\bin\Debug\Lab 02-Qs 04.exe.config
+C:\Users\LENOVO\source\repos\Lab 02-Qs 04\Lab 02-Qs 04\bin\Debug\Lab 02-Qs 04.exe
+C:\Users\LENOVO\source\repos\Lab 02-Qs 04\Lab 02-Qs 04\bin\Debug\Lab 02-Qs 04.pdb
+C:\Users\LENOVO\source\repos\Lab 02-Qs 04\Lab 02-Qs 04\obj\Debug\Lab 02-Qs 04.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Lab 02-Qs 04\Lab 02-Qs 04\obj\Debug\Lab 02-Qs 04.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\Lab 02-Qs 04\Lab 02-Qs 04\obj\Debug\Lab 02-Qs 04.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Lab 02-Qs 04\Lab 02-Qs 04\obj\Debug\Lab 02-Qs 04.exe
+C:\Users\LENOVO\source\repos\Lab 02-Qs 04\Lab 02-Qs 04\obj\Debug\Lab 02-Qs 04.pdb
